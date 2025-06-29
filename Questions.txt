@@ -1,0 +1,13 @@
+Which students got an 'A' grade in any course?
+How many students are there in each department?
+What is the average grade per course?
+Which instructor teaches which courses?
+Which students are in the Computer Science department?
+What are the most recently enrolled students?
+What are the names and emails of all instructors?
+Which student has enrolled in the most number of courses?
+Which course has the highest number of enrollments?
+What is the distribution of grades in each course?
+Which instructors were hired before 2015?
+Which students were born after the year 2001?
+
