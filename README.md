@@ -1,6 +1,6 @@
 # Student Course Management System (MySQL)
 
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER Diagram.png)
 
 This project models a complete student-course-instructor relationship database using MySQL. It contains 5 core tables:
 
